@@ -18,7 +18,7 @@ This repository contains my work for Project 2 of the the Programming for Data A
 - Discuss and investigate how the dataset could be extended – using data synthesis of new tumour datapoints. 
 - Document your work in a Jupyter notebook.
 
-## Intructions to Reader ## 
+## Instructions to Reader ## 
 
 Download and run `Analysis.ipynb` on your local machine. 
 
